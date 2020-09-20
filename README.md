@@ -3,7 +3,7 @@ About r-npsurv
 
 Home: https://www.stat.auckland.ac.nz/~yongwang
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Feedstock license: BSD-3-Clause
 
