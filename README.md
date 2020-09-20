@@ -5,7 +5,7 @@ Home: https://www.stat.auckland.ac.nz/~yongwang
 
 Package license: GPL (>= 2)
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Contains functions for non-parametric survival analysis of exact and interval-censored observations. 
 
