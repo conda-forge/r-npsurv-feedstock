@@ -1,11 +1,11 @@
-About r-npsurv
-==============
+About r-npsurv-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-npsurv-feedstock/blob/main/LICENSE.txt)
 
 Home: https://www.stat.auckland.ac.nz/~yongwang
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-npsurv-feedstock/blob/main/LICENSE.txt)
 
 Summary: Contains functions for non-parametric survival analysis of exact and interval-censored observations. 
 
